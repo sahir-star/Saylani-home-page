@@ -1,0 +1,311 @@
+.first{
+    background-color: #316dc3;
+}
+.firstrow{
+    margin-top: -7px;
+  
+}
+.cbox01{
+    text-align: center;
+}
+
+.imgcbox01{
+    margin-left: 10px;
+}
+
+.cbox02{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+
+.cbox03{
+    text-align: center;
+}
+li{
+    list-style: none;
+    border: 1px solid black;
+    font-size: 12px;
+    padding: 3px 5px 3px 5px;
+    display: inline-flex;
+    background-color: #f5f5f5;
+    align-items: center;    
+}
+
+.cbox03 a{
+    text-decoration: none;
+}
+
+.cbox03link{
+    color: #a3b39d;
+}
+
+.back{
+    background-color: #f7f8fa;
+    margin-top: -25px;
+    margin-bottom: -30px;
+    
+}
+
+.logo{
+    text-align: center;
+}
+
+div{
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 18px;
+    text-align: center;
+}
+
+.menu{
+    padding-top: 15px;
+}
+
+.list{
+    border: none;
+    display: inline-flex;
+    text-align: right;
+    margin-left: -4px;
+    padding: 5px 18px 5px 18px;
+    border-radius: 30px;
+    color: black;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.menu :hover{
+    background-color: #316dc3;
+}
+
+.list :hover{
+    background-color: #316dc3;
+}
+a{
+    color: black;
+}
+.list a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.cbox08{
+    height: 45px;
+    margin-top: 12px;
+}
+.cbox09{
+    background-color: #316dc3;
+    height: 30px;
+}
+
+.cbox09 marquee a{
+    color: blue;
+}
+.textslide01{
+    display: inline;
+}
+
+.cbox10{
+    background-color: #f7f8fa;
+    padding-bottom: 70px;
+}
+.cbox11{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 42px;
+}
+.intro{
+   color: #316dc3;
+}
+.duction{
+   color: #427900;
+   margin-left: -10px;
+}
+.favicon01{
+    width: 40px;
+    height: 40px;
+    margin-top: -40px;
+}
+.para01{
+    text-align: justify;
+    line-height: 30px;
+    color: #868687;
+}
+
+.cbox12{
+    background-color: #2655e8;
+    height: 280px;
+    margin-top: -20px;
+}
+
+.cbox13{
+    text-align: center;
+    background-color: #f7f8fa;
+    margin-top: -45px;
+    padding-bottom: 10px;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 38px;
+}
+.what{
+    color: #316dc3;
+}
+.doing{
+    color: #427900;
+}
+.favicon02{
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+}
+
+.boxes h5{
+    margin: 120px;
+    color: blue;
+    font-weight: bold;
+}
+
+.cbox14{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.top{
+    margin-top: 30px;
+}
+.boxes{
+    width: 345px;
+    height: 185px;
+    display: inline-flex;
+    margin: 15px;
+    box-shadow: 1px -1px 15px #7e7e7e;
+    background-color: white;
+}
+.help{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 140px;
+}
+
+.missionrow{
+    background-color: white;
+}
+.head05{
+    font-size: 25px;
+    text-align: left;
+    font-weight: bold;
+    color: #316dc3;
+    margin-top: 40px;
+}
+
+.boxesofline01{
+    border: 1px solid black;
+    width: 345px;
+    height: 73px;
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 15px;
+    margin-bottom: -40px;
+    background-color: #f7f8fa;
+}
+.imgofline{
+    position: absolute;
+    margin-left: -155px;
+    margin-top: 15px;
+}
+h6{
+    font-weight: bold;
+    color: #316dc3;
+    margin-top: 30px;
+    text-align: justify;
+    margin-left: 80px;
+}
+.sideslider{
+    width: 375px;
+}
+
+h4{
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: bold;
+    color: #316dc3;
+    text-align: left;
+}
+.sidemarquee{
+    text-align: justify;
+    margin-right: 90px;
+    font-size: 14px;
+    height: 251px;
+}
+
+.cbox16{
+    margin-top: 50px;
+    padding-bottom: -30px;
+    align-items: center;
+}
+.gallery{
+ margin-top: 30px;
+}
+
+.image{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+
+.full{
+    background-color: #25272e;
+}
+
+.footerh1{
+    padding-top: 40px;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+
+.address{
+    margin-top: 50px;
+    text-align: left;
+    line-height: 30px;
+    color: #727376;
+    margin-bottom: 70px;
+}
+.link{
+    margin-bottom: 70px;
+}
+.center{
+    margin-bottom: 70px;
+}
+
+.contactus{
+    color: white;
+    font-weight: normal;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+.center{
+    text-align: left;
+    margin-top: 20px;
+    letter-spacing: 5px;
+}
+
+.copy{
+    height: 50px;
+    margin-top: -20px;
+    background-color: #316dc3;
+    margin-bottom: -28px;
+}
+
+.text{
+    line-height: 50px;
+    font-size: 15px;
+}
